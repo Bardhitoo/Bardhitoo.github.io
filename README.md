@@ -1,2 +1,2 @@
-# Bardhitoo.github.io
+# bardhs.github.io
 My personal website
